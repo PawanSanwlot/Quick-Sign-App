@@ -26,8 +26,8 @@ The **Signature Drawing App** is a simple, user-friendly web application that al
 ---
 
 ## Demo
-
-![Signature App Screenshot](screenshot.png)
+Live Link
+[![Signature App Screenshot](screenshot.png)](https://mysignapp.netlify.app/)
 
 ---
 
@@ -39,54 +39,6 @@ The **Signature Drawing App** is a simple, user-friendly web application that al
 - **Bootstrap 5**: For additional styling and UI components.
 - **JavaScript**: For handling user interactions and canvas functionality.
 
-### Additional Tools
-- **Canvas API**: For drawing on the signature pad.
-
----
-
-## How to Use
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/signature-app.git
-   ```
-
-2. Navigate to the project directory:
-   ```bash
-   cd signature-app
-   ```
-
-3. Open `index.html` in your browser:
-   - Simply double-click on the file, or
-   - Use a live server in your code editor (e.g., VSCode).
-
-4. Interact with the tools provided:
-   - Choose your preferred text and background colors.
-   - Adjust the font size.
-   - Start drawing your signature on the canvas.
-   - Save, retrieve, or clear your signature as needed.
-
----
-
-## File Structure
-```
-.
-├── index.html       # Main HTML file
-├── style.css        # Styling for the app
-├── app.js           # JavaScript functionality
-├── icons8-pen-32.png # Favicon for the app
-├── README.md        # Project documentation (this file)
-```
-
----
-
-## Future Enhancements
-- Add the ability to change the pen thickness.
-- Include more export formats (e.g., SVG).
-- Provide an undo/redo feature for strokes.
-- Add pre-designed signature templates.
-
----
 
 ## Contributing
 
