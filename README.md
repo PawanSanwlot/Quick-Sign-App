@@ -25,9 +25,9 @@ The **Signature Drawing App** is a simple, user-friendly web application that al
 
 ---
 
-## Demo
-Live Link
-[![Signature App Screenshot](screenshot.png)](https://mysignapp.netlify.app/)
+## Live Link
+
+[https://mysignapp.netlify.app](https://mysignapp.netlify.app/)
 
 ---
 
