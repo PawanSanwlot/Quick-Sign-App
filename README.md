@@ -1,6 +1,6 @@
-# Signature Drawing App
+# Signature App
 
-The **Signature Drawing App** is a simple, user-friendly web application that allows users to create, customize, and save digital signatures. Designed with smooth interactivity and an intuitive interface, this app is ideal for capturing digital signatures or practicing calligraphy.
+The **Signature App** is a simple, user-friendly web application that allows users to create, customize, and save digital signatures. Designed with smooth interactivity and an intuitive interface, this app is ideal for capturing digital signatures or practicing calligraphy.
 
 ---
 
